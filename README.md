@@ -6,4 +6,5 @@ A simple tool to remove backgrounds from images using the `rembg` library.
 
 To use this tool, you need to have Python installed. You can install the required packages using pip:
 
+```bash
 pip install rembg pillow
